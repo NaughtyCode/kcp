@@ -12,3 +12,5 @@
 /.env
 /build/*
 
+demo/build/*
+nul
